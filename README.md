@@ -1,5 +1,7 @@
-### Em 2016 me tornei Graduada em Design Gráfico, atualmente considerei começar uma segunda graduação, em Análise e Desenvolvimento de sistemas, visando trabalhar como Front-end, com os estudos me aprofundar em HTML, CSS, JavaScript e frameworks como React.
-Busco oportunidades para colocar em prática esses novos conhecimentos e crescer profissionalmente, oferecendo soluções criativas e inovadoras para criar experiências incríveis para os usuários. ðŸ‘‹
+## Oii 😊
+
+Em 2016 me tornei Graduada em Design Gráfico, atualmente considerei começar uma segunda graduação, em Análise e Desenvolvimento de sistemas, visando trabalhar como Front-end, com os estudos me aprofundar em HTML, CSS, JavaScript e frameworks como React.
+Busco oportunidades para colocar em prática esses novos conhecimentos e crescer profissionalmente, oferecendo soluções criativas e inovadoras para criar experiências incríveis para os usuários.
 <!--
 - ðŸ”­ Iâ€™m currently working on ...
 - ðŸŒ± Iâ€™m currently learning ...
@@ -22,12 +24,11 @@ Busco oportunidades para colocar em prática esses novos conhecimentos e crescer
   <!--<img align="center" alt="Abner-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Abner-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">-->
   <!--<img align="center" alt="Abner-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">-->
-  <img align="center" alt="Abner-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
   
   ##
   
-  <a href="https://www.linkedin.com/in/andressa-santos-2908/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/andressa-santos-2908/" target="_blank"><img src="file:///D:/Usuários/Documentos/Projeto/GIT/logo-linkedin-256.png" target="_blank"></a>
    
   </div>
 </div>
