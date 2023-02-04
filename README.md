@@ -28,7 +28,7 @@ Busco oportunidades para colocar em prática esses novos conhecimentos e crescer
   
   ##
   
-  <a href="https://www.linkedin.com/in/andressa-santos-2908/" target="_blank"><img src="file:///D:/Usuários/Documentos/Projeto/GIT/logo-linkedin-256.png" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/andressa-santos-2908/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    
   </div>
 </div>
